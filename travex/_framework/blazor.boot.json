@@ -20,7 +20,7 @@
       "Microsoft.Extensions.Configuration.Json.dll": "sha256-nTqLKuydttqLtE3VT3p6XhPmLxuaJDd0cL3Qzt8D4Ro=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-yYRllZJlWp+B35IoVXWL2oEHLbwSN\/8GrT5g7ISFCfw=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-qi0kE7rp0kdsNqdL6DyPZEeimjUGvcLT4iWQX0YnRus=",
-      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-RFPPv5n2AGA9qYNm6B1hNg0rPnDwjuMdM3Wyy4EeYeA=",
+      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-t9Ntkny9UEHBXBVONJL3FQhKoZfTvFw34wMkZpt06pw=",
       "Microsoft.Extensions.Logging.dll": "sha256-oEPPw1EPpaOHv+EHwoT2WcgDiRbjEXxigiW7V44cIYE=",
       "Microsoft.Extensions.Options.dll": "sha256-0fhMx2H0cf76DtazR5+OlRbIi1+vI3PjUYGaW5uG30c=",
       "Microsoft.Extensions.Primitives.dll": "sha256-eXvGx2jcjpTPEJoAHBsW\/VuMPbNyyU+AsuhPmkzSSRY=",
@@ -62,7 +62,7 @@
       "System.Text.RegularExpressions.dll": "sha256-OznNkW3dtvK7aSu6uKT9R36nnDxmW8RO5eON9PVelko=",
       "System.Threading.dll": "sha256-64DZUzxKGmJbYkJP7Bx+5pZf7rZwLBvNfqIyUzYi43w=",
       "System.Web.HttpUtility.dll": "sha256-GqtvO5GXd1uyooydKFQUi7FCCwK\/MGjUAdztSq9xSB0=",
-      "TravEx.dll": "sha256-z0MaqOELPFQgUB1B+MOzUGBF2+XgGnPiXP1wopZYaj4="
+      "TravEx.dll": "sha256-wjAB8JpqHSbFI1P+EDvdJ7mhyiS3QEPqSQ6Z+9WvJDs="
     },
     "extensions": null,
     "lazyAssembly": null,
